@@ -7,6 +7,7 @@ choosing to load and validate the following input file:
 #
 # comment lines ( skip them )
 #
+# This is a comment
 Sigma :
     word1
     word2
